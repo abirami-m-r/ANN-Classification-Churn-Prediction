@@ -18,6 +18,7 @@ Create app.py and run Streamlit to get the input from the user(from a webpage) a
 
 
 ##Change is the activation function at op layer of ANN and loss function, Rest are same as Classification.
+
 **Regression**: Predict the 'EstimatedSalary' column based on the features related to a customer like - Has Creditcard, Age, CreditScore, balance etc.
 
 Feature Engineering: Convert categorical columns like Gender and Geography using LabelEncoder, OneHotEncoder to numerical values.
